@@ -1,1 +1,0 @@
-# ProofPay-StellarX
